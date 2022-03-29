@@ -4,7 +4,7 @@
         "userid": "gitkeniwo",
         "gender": "male",
         "fav": ["nintendo", "alternative rock", "manga", "driods"],
-	    "hate": ["tomatoes", "microsoft(excluding vscode)", "communism"]
+	"hate": ["tomatoes", "microsoft(excluding vscode)", "communism"]
     },
     "activities": {
         "17 FALL": "ZJU",
