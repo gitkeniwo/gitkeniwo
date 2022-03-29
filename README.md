@@ -3,7 +3,8 @@
     "userinfo": {
         "userid": "gitkeniwo",
         "gender": "male",
-        "hate": "communism"
+        "fav": ["nintendo", "alternative rock", "manga", "driods"],
+	    "hate": ["tomatoes", "microsoft(excluding vscode)", "communism"]
     },
     "activities": {
         "17 FALL": "ZJU",
@@ -15,4 +16,4 @@
 ~ </br>
 ~ </br>
 ~ </br>
-"~/gitkeniwo.json" 11L, 209B written
+"~/gitkeniwo.json" 12L, 315B written
