@@ -3,9 +3,9 @@
     "userinfo": {
         "userid": "gitkeniwo",
         "gender": "male",
-		"pronouns": "he/him/his",
+	"pronouns": "he/him/his",
         "fav": ["nintendo", "alternative rock", "manga", "driods", "Ludwig Wittgenstein"],
-		"hate": ["tomatoes", "microsoft(excluding vscode)", "raininess", "communism"]
+	"hate": ["tomatoes", "microsoft(excluding vscode)", "raininess", "communism"]
     },
     "experience": [{
 	"duration": "17Fall-21Summer",
