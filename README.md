@@ -3,24 +3,25 @@
     "userinfo": {
         "userid": "gitkeniwo",
         "gender": "male",
-        "fav": ["nintendo", "alternative rock", "manga", "driods"],
-	"hate": ["tomatoes", "microsoft(excluding vscode)", "communism"]
+		"pronouns": "he/him/his",
+        "fav": ["nintendo", "alternative rock", "manga", "driods", "Ludwig Wittgenstein"],
+		"hate": ["tomatoes", "microsoft(excluding vscode)", "raininess", "communism"]
     },
     "experience": [{
 	"duration": "17Fall-21Summer",
-	"university": "ZJU",
+	"institution": "ZJU",
 	"location": "Hangzhou, PRC",
-	"description": "Bachelor"
+	"description": "Bachelor MIS"
 	}, 
 	{
 	"duration": "21Fall-22Summer",
-	"university": "ZJU",
+	"institution": "ZJU",
 	"location": "Hangzhou, PRC",
 	"description": "Fulltime Research Assistant"
 	},
 	{
 	"duration": "22Fall-",
-	"university": "TU/e",
+	"institution": "TU/e",
 	"location": "Eindhoven, Netherlands",
 	"description": "Master DS & AI"
 	}]
@@ -30,4 +31,4 @@
 ~ </br>
 ~ </br>
 ~ </br>
-"~/gitkeniwo.json" 28L, 631B written
+"~/gitkeniwo.json" 27L, 692B
