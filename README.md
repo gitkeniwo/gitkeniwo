@@ -2,7 +2,6 @@
 {
     "userinfo": {
         "userid": "gitkeniwo",
-        "gender": "male",
 	"pronouns": "he/him/his",
         "fav": ["nintendo", "alternative rock", "manga", "driods", "Ludwig Wittgenstein"],
 	"hate": ["tomatoes", "microsoft(excluding vscode)", "raininess", "communism"]
@@ -31,4 +30,4 @@
 ~ </br>
 ~ </br>
 ~ </br>
-"~/gitkeniwo.json" 27L, 692B
+"~/gitkeniwo.json" 26L, 692B
